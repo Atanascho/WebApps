@@ -8,10 +8,10 @@
 
   <ItemGroup>
     <Folder Include="Services\" />
-    <Folder Include="ViewsModels\Barbers\" />
-    <Folder Include="ViewsModels\Home\" />
-    <Folder Include="ViewsModels\Users\" />
-    <Folder Include="ViewsModels\Reviews\" />
+    <Folder Include="ViewModels\Home\" />
+    <Folder Include="ViewModels\Reviews\" />
+    <Folder Include="ViewModels\Users\" />
+    <Folder Include="Views\Reviews\" />
   </ItemGroup>
 
   <ItemGroup>

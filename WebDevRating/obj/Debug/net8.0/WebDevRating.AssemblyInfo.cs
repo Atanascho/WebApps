@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebDevRating")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55c434f6924c67b6c73a28d9cf86032c98488339")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c88bb9a2fe4967ba02e8a283cde7bec26396cfe0")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebDevRating")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebDevRating")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

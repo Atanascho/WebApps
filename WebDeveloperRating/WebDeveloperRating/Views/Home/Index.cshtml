@@ -15,7 +15,7 @@
         <p>Общо потребители: @Model.UsersCount</p>
     </div>
     <div class="col-md-4">
-        <h2>Бръснари</h2>
+        <h2>Уеб Дизайнери</h2>
         <div id="WebDevelopers-chart"></div>
         <p>Общо бръснари: @Model.WebDevelopersCount</p>
     </div>
@@ -24,9 +24,6 @@
         <div id="reviews-chart"></div>
         <p>Общо прегледи: @Model.ReviewsCount</p>
     </div>
-</div>
-<div class="banner">
-    <img src="~/images/banner.jpg" alt="Банер за бръснарски услуги" class="img-fluid">
 </div>
 
 @section Scripts {
@@ -56,7 +53,7 @@
         }
 
         createChart('users-chart', @Model.UsersCount, 'Потребители', '#36a2eb');
-        createChart('WebDevelopers-chart', @Model.WebDevelopersCount, 'Бръснари', '#ff6384');
+        createChart('WebDevelopers-chart', @Model.WebDevelopersCount, 'Уеб Дизайнери', '#ff6384');
         createChart('reviews-chart', @Model.ReviewsCount, 'Прегледи', '#ff9f40');
     </script>
 }

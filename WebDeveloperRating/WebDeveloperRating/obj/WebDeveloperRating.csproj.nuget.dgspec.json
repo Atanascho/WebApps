@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual Studio 2022\\Web applications\\WebDevRating\\WebApps\\WebDeveloperRating\\WebDeveloperRating\\WebDeveloperRating.csproj": {}
+    "C:\\Users\\User\\OneDrive\\Работен плот\\Proekt Maaci\\BarberRating\\BarberRating\\WebDeveloperRating.csproj": {}
   },
   "projects": {
-    "D:\\Visual Studio 2022\\Web applications\\WebDevRating\\WebApps\\WebDeveloperRating\\WebDeveloperRating\\WebDeveloperRating.csproj": {
+    "C:\\Users\\User\\OneDrive\\Работен плот\\Proekt Maaci\\BarberRating\\BarberRating\\WebDeveloperRating.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio 2022\\Web applications\\WebDevRating\\WebApps\\WebDeveloperRating\\WebDeveloperRating\\WebDeveloperRating.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Работен плот\\Proekt Maaci\\BarberRating\\BarberRating\\WebDeveloperRating.csproj",
         "projectName": "WebDeveloperRating",
-        "projectPath": "D:\\Visual Studio 2022\\Web applications\\WebDevRating\\WebApps\\WebDeveloperRating\\WebDeveloperRating\\WebDeveloperRating.csproj",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Работен плот\\Proekt Maaci\\BarberRating\\BarberRating\\WebDeveloperRating.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio 2022\\Web applications\\WebDevRating\\WebApps\\WebDeveloperRating\\WebDeveloperRating\\obj\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Работен плот\\Proekt Maaci\\BarberRating\\BarberRating\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,29 +44,37 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.2, )"
+              "version": "[8.0.12, )"
             },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.2, )"
+              "version": "[8.0.12, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.12, )"
             },
             "Microsoft.EntityFrameworkCore.Proxies": {
               "target": "Package",
-              "version": "[9.0.2, )"
+              "version": "[8.0.12, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.2, )"
+              "version": "[8.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.2, )"
+              "version": "[8.0.12, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [

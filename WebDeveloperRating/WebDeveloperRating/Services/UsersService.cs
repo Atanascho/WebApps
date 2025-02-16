@@ -126,7 +126,7 @@ namespace WebDeveloperRating.Services
                 }
                 else
                 {
-                    dataUsers = dataUsers.OrderByDescending(x =>x.Roles.FirstOrDefault().RoleId);
+                    //dataUsers = dataUsers.OrderByDescending(x =>x.Roles.FirstOrDefault().RoleId);
                 }
             }
             else
@@ -138,7 +138,7 @@ namespace WebDeveloperRating.Services
                 }
                 else
                 {
-                    dataUsers = dataUsers.OrderBy(x => x.Roles.FirstOrDefault().RoleId);
+                    //dataUsers = dataUsers.OrderBy(x => x.Roles.FirstOrDefault().RoleId);
                 }
             }
 

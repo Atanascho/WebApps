@@ -17,127 +17,127 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebDeveloperRating
 build_property.RootNamespace = WebDeveloperRating
-build_property.ProjectDir = D:\Visual Studio 2022\Web applications\WebDevRating\WebApps\WebDeveloperRating\WebDeveloperRating\
+build_property.ProjectDir = C:\Users\User\OneDrive\Работен плот\Proekt Maaci\BarberRating\BarberRating\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Visual Studio 2022\Web applications\WebDevRating\WebApps\WebDeveloperRating\WebDeveloperRating
+build_property.MSBuildProjectDirectory = C:\Users\User\OneDrive\Работен плот\Proekt Maaci\BarberRating\BarberRating
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Visual Studio 2022/Web applications/WebDevRating/WebApps/WebDeveloperRating/WebDeveloperRating/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/Users/User/OneDrive/Работен плот/Proekt Maaci/BarberRating/BarberRating/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Visual Studio 2022/Web applications/WebDevRating/WebApps/WebDeveloperRating/WebDeveloperRating/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/User/OneDrive/Работен плот/Proekt Maaci/BarberRating/BarberRating/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Visual Studio 2022/Web applications/WebDevRating/WebApps/WebDeveloperRating/WebDeveloperRating/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/Users/User/OneDrive/Работен плот/Proekt Maaci/BarberRating/BarberRating/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Visual Studio 2022/Web applications/WebDevRating/WebApps/WebDeveloperRating/WebDeveloperRating/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Users/User/OneDrive/Работен плот/Proekt Maaci/BarberRating/BarberRating/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Visual Studio 2022/Web applications/WebDevRating/WebApps/WebDeveloperRating/WebDeveloperRating/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/User/OneDrive/Работен плот/Proekt Maaci/BarberRating/BarberRating/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Visual Studio 2022/Web applications/WebDevRating/WebApps/WebDeveloperRating/WebDeveloperRating/Views/Home/Index.cshtml]
+[C:/Users/User/OneDrive/Работен плот/Proekt Maaci/BarberRating/BarberRating/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Visual Studio 2022/Web applications/WebDevRating/WebApps/WebDeveloperRating/WebDeveloperRating/Views/Home/Privacy.cshtml]
+[C:/Users/User/OneDrive/Работен плот/Proekt Maaci/BarberRating/BarberRating/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Visual Studio 2022/Web applications/WebDevRating/WebApps/WebDeveloperRating/WebDeveloperRating/Views/Reviews/Create.cshtml]
+[C:/Users/User/OneDrive/Работен плот/Proekt Maaci/BarberRating/BarberRating/Views/Reviews/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Visual Studio 2022/Web applications/WebDevRating/WebApps/WebDeveloperRating/WebDeveloperRating/Views/Reviews/Delete.cshtml]
+[C:/Users/User/OneDrive/Работен плот/Proekt Maaci/BarberRating/BarberRating/Views/Reviews/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3c1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Visual Studio 2022/Web applications/WebDevRating/WebApps/WebDeveloperRating/WebDeveloperRating/Views/Reviews/Details.cshtml]
+[C:/Users/User/OneDrive/Работен плот/Proekt Maaci/BarberRating/BarberRating/Views/Reviews/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3c1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Visual Studio 2022/Web applications/WebDevRating/WebApps/WebDeveloperRating/WebDeveloperRating/Views/Reviews/Edit.cshtml]
+[C:/Users/User/OneDrive/Работен плот/Proekt Maaci/BarberRating/BarberRating/Views/Reviews/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3c1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Visual Studio 2022/Web applications/WebDevRating/WebApps/WebDeveloperRating/WebDeveloperRating/Views/Reviews/Index.cshtml]
+[C:/Users/User/OneDrive/Работен плот/Proekt Maaci/BarberRating/BarberRating/Views/Reviews/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Visual Studio 2022/Web applications/WebDevRating/WebApps/WebDeveloperRating/WebDeveloperRating/Views/Reviews/UserIndex.cshtml]
+[C:/Users/User/OneDrive/Работен плот/Proekt Maaci/BarberRating/BarberRating/Views/Reviews/UserIndex.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3c1xVc2VySW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Visual Studio 2022/Web applications/WebDevRating/WebApps/WebDeveloperRating/WebDeveloperRating/Views/Shared/Error.cshtml]
+[C:/Users/User/OneDrive/Работен плот/Proekt Maaci/BarberRating/BarberRating/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Visual Studio 2022/Web applications/WebDevRating/WebApps/WebDeveloperRating/WebDeveloperRating/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/User/OneDrive/Работен плот/Proekt Maaci/BarberRating/BarberRating/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Visual Studio 2022/Web applications/WebDevRating/WebApps/WebDeveloperRating/WebDeveloperRating/Views/Shared/_PagingPartial.cshtml]
+[C:/Users/User/OneDrive/Работен плот/Proekt Maaci/BarberRating/BarberRating/Views/Shared/_PagingPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYWdpbmdQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Visual Studio 2022/Web applications/WebDevRating/WebApps/WebDeveloperRating/WebDeveloperRating/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/User/OneDrive/Работен плот/Proekt Maaci/BarberRating/BarberRating/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Visual Studio 2022/Web applications/WebDevRating/WebApps/WebDeveloperRating/WebDeveloperRating/Views/Users/Create.cshtml]
+[C:/Users/User/OneDrive/Работен плот/Proekt Maaci/BarberRating/BarberRating/Views/Users/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Visual Studio 2022/Web applications/WebDevRating/WebApps/WebDeveloperRating/WebDeveloperRating/Views/Users/Edit.cshtml]
+[C:/Users/User/OneDrive/Работен плот/Proekt Maaci/BarberRating/BarberRating/Views/Users/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Visual Studio 2022/Web applications/WebDevRating/WebApps/WebDeveloperRating/WebDeveloperRating/Views/Users/Index.cshtml]
+[C:/Users/User/OneDrive/Работен плот/Proekt Maaci/BarberRating/BarberRating/Views/Users/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Visual Studio 2022/Web applications/WebDevRating/WebApps/WebDeveloperRating/WebDeveloperRating/Views/Users/Login.cshtml]
+[C:/Users/User/OneDrive/Работен плот/Proekt Maaci/BarberRating/BarberRating/Views/Users/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Visual Studio 2022/Web applications/WebDevRating/WebApps/WebDeveloperRating/WebDeveloperRating/Views/WebDevelopers/Create.cshtml]
+[C:/Users/User/OneDrive/Работен плот/Proekt Maaci/BarberRating/BarberRating/Views/WebDevelopers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViRGV2ZWxvcGVyc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Visual Studio 2022/Web applications/WebDevRating/WebApps/WebDeveloperRating/WebDeveloperRating/Views/WebDevelopers/Delete.cshtml]
+[C:/Users/User/OneDrive/Работен плот/Proekt Maaci/BarberRating/BarberRating/Views/WebDevelopers/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViRGV2ZWxvcGVyc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Visual Studio 2022/Web applications/WebDevRating/WebApps/WebDeveloperRating/WebDeveloperRating/Views/WebDevelopers/Details.cshtml]
+[C:/Users/User/OneDrive/Работен плот/Proekt Maaci/BarberRating/BarberRating/Views/WebDevelopers/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViRGV2ZWxvcGVyc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Visual Studio 2022/Web applications/WebDevRating/WebApps/WebDeveloperRating/WebDeveloperRating/Views/WebDevelopers/Edit.cshtml]
+[C:/Users/User/OneDrive/Работен плот/Proekt Maaci/BarberRating/BarberRating/Views/WebDevelopers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViRGV2ZWxvcGVyc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Visual Studio 2022/Web applications/WebDevRating/WebApps/WebDeveloperRating/WebDeveloperRating/Views/WebDevelopers/Index.cshtml]
+[C:/Users/User/OneDrive/Работен плот/Proekt Maaci/BarberRating/BarberRating/Views/WebDevelopers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ViRGV2ZWxvcGVyc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Visual Studio 2022/Web applications/WebDevRating/WebApps/WebDeveloperRating/WebDeveloperRating/Views/_ViewImports.cshtml]
+[C:/Users/User/OneDrive/Работен плот/Proekt Maaci/BarberRating/BarberRating/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Visual Studio 2022/Web applications/WebDevRating/WebApps/WebDeveloperRating/WebDeveloperRating/Views/_ViewStart.cshtml]
+[C:/Users/User/OneDrive/Работен плот/Proekt Maaci/BarberRating/BarberRating/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Visual Studio 2022/Web applications/WebDevRating/WebApps/WebDeveloperRating/WebDeveloperRating/Views/Shared/_Layout.cshtml]
+[C:/Users/User/OneDrive/Работен плот/Proekt Maaci/BarberRating/BarberRating/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9y1kxybb18
